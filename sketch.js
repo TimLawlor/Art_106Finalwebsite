@@ -4,7 +4,7 @@ var x= 280;
 var moonRadius = 17;
 
 function setup() {
-  var canvas = createCanvas(windowWidth, 400);
+  var canvas = createCanvas(600, 400);
   canvas.parent('header');
 }
 
@@ -35,7 +35,7 @@ function draw() {
 	line(375,300,375,150);
 	line(375,150,430,180);
 	line(430,180,430,300);
-	line(430,300,width,300);
+	line(430,300,600,300);
 	
 	 //tree
 	fill(10,100,0); //green
