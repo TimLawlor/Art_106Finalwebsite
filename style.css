@@ -1,0 +1,29 @@
+html {
+    margin 0;
+}
+
+body {
+    background-color: rgb(86,86,86)
+}
+
+#header{
+    
+}
+
+#portfolio{
+ max-width: 500px;   
+margin: 0 auto 0 auto;
+}
+
+#portfolio img{
+    max-width: 500px;
+    margin:auto;
+    padding: 5px;
+}
+
+
+#portfolio p{
+    max-width: 500px;
+    margin:auto;
+    padding: 5px;
+}
