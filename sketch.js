@@ -11,6 +11,8 @@ var lX2 = 160.5
 var lY1 = 155.5
 var lY2 = 330
 
+
+
 function setup() {
   var canvas = createCanvas(windowWidth, 500);
   canvas.parent('header');
